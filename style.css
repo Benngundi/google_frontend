@@ -1,0 +1,35 @@
+.container_holder{
+    width:100%;
+}
+
+.container_body{
+    height: 80vh;
+}
+.top_buttons{
+    margin-right: 30px;
+   margin-top: 10px;
+}
+.top_buttons > a {
+    float:right;
+    padding: 10px;
+}
+.search_form{
+    width: 100%;
+    background-color: red;
+    margin:30px;
+}
+.button_submit{
+    margin: 10px;
+    border-width: 0px;
+    border-color: #dedede;
+}
+.border_shape{
+    border-radius: 20px;
+    border-width: 0.3px;
+    border-color: #dedede;
+    height: 45px;
+    align-self: center;
+    max-width: 560px;
+}
+.font_Clour{color: white;
+}
